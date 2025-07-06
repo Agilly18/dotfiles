@@ -130,7 +130,7 @@ v="nvim" \
 f="fff" \
 l="ls -lh --color=auto --group-directories-first" \
 ls="ls -h --color=auto --group-directories-first" \
-# la="ls -lah --color=auto --group-directories-first" \
+la="ls -lah --color=auto --group-directories-first" \
 grep="grep --color=auto" \
 shell="exec $SHELL -l" \
 fk="sudo !!" \
