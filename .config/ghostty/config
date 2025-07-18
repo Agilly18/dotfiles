@@ -44,5 +44,5 @@
 # resize-overlay-duration = 4s 200ms
 #
 #
-# background-opacity = 1.0
+background-opacity = 0.9
 font-size = 14

@@ -84,7 +84,7 @@ v="nvim" \
 f="fff" \
 ls='ls --color' \
 vim='nvim' \
-cat='bat' \
+cat='bat --color=auto' \
 fzf='fzf --preview="bat --color=always {}"' \
 ivim='nvim $(fzf --preview="bat --color=always {}")' \
 l="ls -lh --color=auto --group-directories-first" \
